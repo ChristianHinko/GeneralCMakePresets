@@ -1,1 +1,1 @@
-# GenericCMakePresets
+# GeneralCMakePresets
