@@ -1,0 +1,18 @@
+{
+    "version": 10,
+    "cmakeMinimumRequired": {
+        "major": 4,
+        "minor": 0,
+        "patch": 0
+    },
+    "$comment": [
+        "Copyright (c) 2023-2025 Christian Hinkle, Brian Hinkle."
+    ],
+    "include": [
+        "${sourceDir}/GeneralCMakePresets/Platforms/Windows.json",
+        "${sourceDir}/GeneralCMakePresets/Platforms/Linux.json",
+        "${sourceDir}/GeneralCMakePresets/Platforms/MacOS.json",
+        "${sourceDir}/GeneralCMakePresets/Platforms/Windows_x64.json",
+        "${sourceDir}/GeneralCMakePresets/Platforms/Windows_x32.json"
+    ]
+}

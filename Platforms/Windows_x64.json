@@ -9,9 +9,9 @@
         "Copyright (c) 2023-2025 Christian Hinkle, Brian Hinkle."
     ],
     "include": [
-        "${sourceDir}/CMake/GenericCMakePresets/Platforms/Windows.json",
-        "${sourceDir}/CMake/GenericCMakePresets/Generators/NinjaBase.json",
-        "${sourceDir}/CMake/GenericCMakePresets/Generators/VisualStudioBase.json"
+        "${sourceDir}/GeneralCMakePresets/Platforms/Windows.json",
+        "${sourceDir}/GeneralCMakePresets/Generators/NinjaBase.json",
+        "${sourceDir}/GeneralCMakePresets/Generators/VisualStudioBase.json"
     ],
     "configurePresets": [
         {
